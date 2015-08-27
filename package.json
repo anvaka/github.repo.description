@@ -1,0 +1,22 @@
+{
+  "name": "github.repo.description",
+  "version": "1.0.0",
+  "description": "Crawls all public repositories from github and saves their descriptions into redis database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crawler",
+    "github",
+    "repository",
+    "description",
+    "redis"
+  ],
+  "author": "Andrei Kashcha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anvaka/github.repo.description"
+  }
+}
