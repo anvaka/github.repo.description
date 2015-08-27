@@ -18,5 +18,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/anvaka/github.repo.description"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "ioredis": "^1.7.5",
+    "request-promise": "^0.4.3"
   }
 }
